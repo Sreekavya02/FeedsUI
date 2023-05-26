@@ -1,0 +1,28 @@
+{
+  "feeds": [
+    {
+      "id": 1,
+      "username": "kavya",
+      "message": "hello",
+      "isread": true
+    },
+    {
+      "id": 2,
+      "username": "bhargey",
+      "message": "good morning",
+      "isread": true
+    },
+    {
+      "id": 31387.602094182494,
+      "username": "eva",
+      "message": "abc",
+      "isread": true
+    },
+    {
+      "id": 98577.45514255387,
+      "username": "kriti",
+      "message": "hii",
+      "isread": true
+    }
+  ]
+}
